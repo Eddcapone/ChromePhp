@@ -7,10 +7,11 @@ This library allows you to log variables to the Chrome console.
 
 # Installation:
 
-1. git clone https://github.com/Eddcapone/ChromePhp.git
-2. bin/magento module:enable Eddcapone_ChromePhp
-3. bin/magento setup:upgrade
-4. bin/magento setup:di:compile
+1. Create folder "app/code/Eddcapone/"
+2. Go into folder and execute: `git clone https://github.com/Eddcapone/ChromePhp.git`
+3. bin/magento module:enable Eddcapone_ChromePhp
+4. bin/magento setup:upgrade
+5. bin/magento setup:di:compile
 
 # Usage:
 
